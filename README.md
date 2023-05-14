@@ -11,8 +11,8 @@ Our robot "Yanming" has the following functions:
 
 ## Contents
 CG1111A Report.pdf > written report summarising project details in PDF  
-yanming.1.ino > arduino code for Yanming
+yanming.1.ino > arduino code for "Yanming"
 
 ## Acknowledgements
 Our team wishes to express gratitude towards our gracious TA Yan Ming, thus naming our robot after him  
-Thank you Yan Ming
+Thank you Yan Ming!
