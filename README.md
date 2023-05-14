@@ -1,4 +1,4 @@
-# AlexToTheRescue
+# TheA-Maze-ingRace
 End project for CG1111A by Team 3, Section 6 of Studio 2 (AY22/23 Sem 1) 
 
 ## Project Description
