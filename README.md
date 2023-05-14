@@ -1,6 +1,8 @@
 # TheA-Maze-ingRace
 End project for CG1111A by Team 3, Section 6 of Studio 2 (AY22/23 Sem 1) 
 
+![image](https://imgur.com/a/U8cy9cY])
+
 ## Project Description
 We built a robot that coordinates various robotic modules to navigate a pre-determined maze.
 
