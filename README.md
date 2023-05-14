@@ -14,5 +14,5 @@ CG1111A Report.pdf > written report summarising project details in PDF
 yanming.1.ino > arduino code for Yanming
 
 ## Acknowledgements
-Our team wishes to express gratitude towards our gracious TA Yan Ming, thus naming our robot after him
+Our team wishes to express gratitude towards our gracious TA Yan Ming, thus naming our robot after him  
 Thank you Yan Ming
