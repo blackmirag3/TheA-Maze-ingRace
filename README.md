@@ -7,8 +7,11 @@ We built a robot that coordinates various robotic modules to navigate a pre-dete
 Our mBot "xiao Yan ming" has the following functions:  
 - Automatic path correction using IR and Ultrasonic sensor
 - Line sensor and colour sensor to detect instructions for navigating the maze
+- Speaker module to play victory tune on completion of maze
 - Arduino code contains motor functions and colour identification algorithm
 - Speaker module to play victory tune on completion of maze
+
+![image](https://github.com/blackmirag3/TheA-Maze-ingRace/assets/78994143/c401a85b-32e3-4174-9b4d-107f3dfcf7d3)
 
 ![image](https://github.com/blackmirag3/TheA-Maze-ingRace/assets/78994143/c401a85b-32e3-4174-9b4d-107f3dfcf7d3)
 
