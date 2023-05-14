@@ -13,8 +13,6 @@ Our mBot "xiao Yan ming" has the following functions:
 
 ![image](https://github.com/blackmirag3/TheA-Maze-ingRace/assets/78994143/c401a85b-32e3-4174-9b4d-107f3dfcf7d3)
 
-![image](https://github.com/blackmirag3/TheA-Maze-ingRace/assets/78994143/c401a85b-32e3-4174-9b4d-107f3dfcf7d3)
-
 ## Contents
 CG1111A Report.pdf > written report summarising project details in PDF  
 yanming.1.ino > arduino code for "xiao Yan ming"
